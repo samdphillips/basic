@@ -1,0 +1,11 @@
+= BASIC =
+
+This is completely a hack.  There are no tests.  It's really only half
+sketched out.  But it does work ... mostly.  Really I just got enough of
+it done so that my test programs would run.
+
+Known missing parts include compiling for loops (they parse fine, I just
+haven't reworked the compiler to put them in.)  And there are probably
+numerous "primitives" that I just haven't added yet.  Also I think GOSUB
+and RETURN are unimplemented.
+
